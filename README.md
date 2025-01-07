@@ -9,9 +9,9 @@ Uma landing page de exemplo, utilizando html e css!
 
 
 ## Demonstração
-<img src="/src/images/landingpage.gif>
 
-<img src="/src/images/landingpageresp.gif>
+[<img src="./src/images/landingpage.gif>]
+
 
 
 
